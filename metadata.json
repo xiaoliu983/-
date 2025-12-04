@@ -1,0 +1,5 @@
+{
+  "name": "智能拆分扩图 AI",
+  "description": "批量拆分拼接图片并使用 Gemini AI 自动扩图至 3:4 比例。",
+  "requestFramePermissions": []
+}
